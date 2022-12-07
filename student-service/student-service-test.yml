@@ -1,1 +1,5 @@
-
+applicationconfigurations:
+                        host: http://localhost
+                        port: 3305
+                        username: student-test
+                        password: student-test
